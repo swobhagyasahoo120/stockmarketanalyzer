@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+pandas_ta
+requests
+scikit-learn
+xgboost
+textblob
+pydantic
+matplotlib
+seaborn
+plotly
+transformers
